@@ -2,8 +2,9 @@
 
 # I'm Fernando Moreno! 👋
 { 
-    👨‍🎓 Computer Technician 
-    💻📱 Java & Android Developer 
-    🏃‍♂️🏊‍♀️🚴‍♂️ Triathlete 
-    👪 Family 
+    👨‍🎓 Computer Technician
+    💻📱 Java & Android Developer
+    🏃‍♂️🏊‍♀️🚴‍♂️ Triathlete
+    👪 Family
     }
+    
