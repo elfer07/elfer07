@@ -4,6 +4,4 @@
 
     👨‍🎓 Computer Technician
     💻📱 Java & Android Developer
-    🏃‍♂️🏊‍♀️🚴‍♂️ Triathlete
-    👪 Family    
     
