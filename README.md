@@ -1,9 +1,7 @@
-# I'm Fernando Moreno
-
-    
-    
 <div align="center">
 <h1 align="center">I'm<a href="https://portfolioflm.web.app">Fernando Moreno</a> 👋</h1>
+</div>
+<div>
     <h3>👨‍🎓 Computer Technician</h3>
     <h3>💻📱 Java & Android Developer</h3>
 </div>
